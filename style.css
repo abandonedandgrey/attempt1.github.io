@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  color: grey;
+}
+main {
+  style=font-variant: small-caps;font-family: courier; font-style: italic;
+
+}
